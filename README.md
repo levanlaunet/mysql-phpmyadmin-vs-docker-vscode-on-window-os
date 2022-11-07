@@ -1,4 +1,4 @@
 # MySql, phpMyAdmin vs Docker, VScode on Window OS
 
-### Youtube video: https://youtu.be/uN6jPJkB1ko
+### Youtube video: https://youtu.be/cwaVhxRjmQM
 ### Blog: https://levanlau.net
